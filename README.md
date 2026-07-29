@@ -12,8 +12,8 @@ This project analyzes customer churn using Power BI.
 - DAX
 
 ## Dashboard
-![Churn Dashboard] ()
-![Customer Risk Analysis]
+![Churn Dashboard] (https://github.com/Soujanya9380/Customer-Churn-Analysis-Dashboard/blob/main/Dashboard1.png)
+![Customer Risk Analysis] ()
 
 ## Features
 
